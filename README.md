@@ -42,5 +42,7 @@ I am eager to start my career as an apprentice or junior data analyst. I am enth
 ## Contact
 
 Feel free to connect with me on LinkedIn! 📱 https://www.linkedin.com/in/alex-perez-cano-aaa818211/
+
 Or Email! 📧 alexperezcano98@gmail.com
+
 Let's connect and explore opportunities to collaborate and make data-driven decisions together!
